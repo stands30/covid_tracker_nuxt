@@ -1,0 +1,26 @@
+{
+  "name": "covid-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "chart.js": "^2.9.4",
+    "core-js": "^3.15.1",
+    "fibers": "^5.0.0",
+    "moment": "^2.29.1",
+    "nuxt": "^2.15.7",
+    "sass": "^1.43.4",
+    "sass-loader": "^10.2.0",
+    "vue-chartjs": "^3.4.0",
+    "vue-json-csv": "^1.2.12",
+    "vue-select": "^3.16.0",
+    "vue-select2": "^0.2.6"
+  },
+  "devDependencies": {}
+}
